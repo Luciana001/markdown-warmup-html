@@ -1,0 +1,64 @@
+# markdown-warmup-html
+<!DOCTYPE html>
+<html lang="fr">
+<head>
+	<meta xharset="UTF-8">
+	<title> Fiche perso </title>
+</head>
+<body>
+<h1> Brancato Luciana </h1>
+<p>Le meilleur moyen de prédire l'avenir c'est de le créer</p>
+<img src="Images/FB_IMG_1609852579560.jpg" />
+
+<h2>"Moi en une phrase : Pétillante,  Positive ... Une source d'énergie!"</h2>
+
+<table>
+	<tr>
+		<td> Anniversaire </td>
+		<td> 24.06.1987 </td>
+	</tr>
+	<tr>
+		<td> Couleur préférée </td>
+		<td> noir </td>
+		<td> bleu </td>
+	</tr>
+	<tr>
+		<td> Cuisine préférée </td>
+		<td> Italienne </td>
+		<td> Asiatique </td>
+	</tr>
+	<tr>
+		<td> Ananas sur pizza?</td>
+		<td> oui <input type="checkbox"></td>
+		<td> non <input type="checkbox"></td>
+	</tr>
+</table>
+<h3> Loisirs </h3>
+<ul>
+	<li> Astronomie </li>
+	<li> Films 
+		<ul>
+			<li> Inception </li>
+			<li> Interstellar </li>
+			<li> Django </li>
+		</ul>
+	</li>
+	<li> Passer du temps en famille </li>
+	<li> Musique 
+		<ul>
+			<li> rock </li>
+			<li> Jazz et Blues </li>
+		</ul>
+	</li>
+</ul>
+<h4> Vous pouvez toujours compter sur moi quand vous aurez besoin d'un reboost ou d'une écoute attentive.</h4>
+
+<p> Je peux apporter une contribution positive, par l'énergie mais aussi par mes connaissances en algorythme et logique. </p>
+
+<h5> C'est l'histoire d'un pingouin qui respire par les fesses, puis un jour il s'assied ... </h5>
+<h6> Une blague très nulle mais que j'aime bcp!</h6>
+
+<a href=""> Précédent </a>
+Brancato Luciana
+<a href=""> Suivant </a>
+</body># markdown-warmup-html
